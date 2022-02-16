@@ -1,3 +1,16 @@
+# lazypredictplus
+
+Initially forked from [lazypredict](https://github.com/shankarpandala/lazypredict) - building in new simple hypertuning functionality using [Optuna](https://optuna.org/), and other features (quick run, feature importances and selection etc.).
+
+Roadmap:
+- Add quick run option that trims out models slow to run on large datasets.
+- Update to allow running on latest scikit-learn
+- Include feature importances
+- Include feature selection (shap + boruta)
+- Build in simple hyperparameter tuning framework, at least for some models
+
+Remainder of README is as in lazypredict at time of fork.
+
 ============
 Lazy Predict
 ============
