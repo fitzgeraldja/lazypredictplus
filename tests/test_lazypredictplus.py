@@ -1,13 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Tests for `lazypredict` package."""
+"""Tests for `lazypredictplus` package."""
 
 import pytest
 
 from click.testing import CliRunner
 
-from lazypredict import cli
+from lazypredictplus import cli
 
 
 @pytest.fixture

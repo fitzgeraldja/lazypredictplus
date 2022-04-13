@@ -1,4 +1,4 @@
-from lazypredict.Supervised import LazyClassifier
+from lazypredictplus.Supervised import LazyClassifier
 from sklearn.ensemble import RandomForestClassifier, ExtraTreesClassifier
 from sklearn.linear_model import SGDClassifier
 from sklearn.discriminant_analysis import (
